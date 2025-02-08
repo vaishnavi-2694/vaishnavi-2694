@@ -1,32 +1,27 @@
-## Hi there 👋
- I'm Vaishnavi Borkar! 
-💻 Full Stack Developer | Python Developer
-🎓 Computer Engineering Student (Batch 2022-2026) @ Vishwakarma Government Engineering College
+Hi My name is vaishnavi
+Aspiring Full Stack Developer | MERN | Python Developer
+Hi there! I'm Vaishnavi Borkar, a passionate Full Stack Developer and Python Developer currently pursuing my Computer Engineering (2022-2026) at Vishwakarma Government Engineering College. I thrive on solving complex problems and building innovative applications. My journey into coding started with Python, and over time, I have explored the MERN stack, Python development.
 
-🚀 About Me
-🔹 Passionate about MERN Stack & Backend Development
-🔹 Exploring Python Development & Data Science
-🔹 Love working on real-world projects & hackathons
-📌 Skills
-Frontend: React.js, HTML, CSS, JavaScript
-Backend: Node.js, Express.js, Flask
-Database: MongoDB, MySQL
-Other: Python, Data Structures & Algorithms (DSA), Git & GitHub
-🌱 What I'm Working On
-🛠 Enhancing my backend development skills
-🏗 Building real-world projects in MERN & Python
-📈 Preparing for placements
-<!--
-**vaishnavi-2694/vaishnavi-2694** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 What I'm Currently Working On
+🔹 Loan Prediction Project (Data Mining) - Predicting loan approvals based on customer data
+🔹 Full-Stack Projects using MERN - Developing web applications using React, Node.js, Express.js, and MongoDB
+🔹 Backend Development with Python & JavaScript
 
-Here are some ideas to get you started:
+🌱 What I'm Currently Learning
+💻 MERN Stack - Advanced backend development, REST APIs, and authentication
+🐍 Python - Deepening my skills in automation, Flask, and FastAPI
+🧠 DSA (Data Structures & Algorithms) - Improving problem-solving skills in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Looking to Collaborate On
+🔹 Open-source projects in Python, JavaScript, or AI
+🔹 Full-stack web applications using MERN Stack
+💬 Ask Me About
+💻 Full Stack Development (MERN Stack, React, Node.js)
+🐍 Python Development (Flask, FastAPI, Automation)
+
+🚀 Backend Development
+if you have an exciting collaboration opportunity, feel free to reach out!
+
+📬 How to Reach Me
+📧 Email: vaishnaviborkar134@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/vaishnavi-borkar-2590862b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
