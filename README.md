@@ -33,28 +33,6 @@
 ## 🛠 **Tech Stack & Tools**  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,python,docker,postman,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,python,,postman,git,github,vscode" alt="Tech Stack" />
 </p>
 
-### **Languages & Technologies**
-```javascript
-const Vaishnavi = {
-  pronouns: "she" | "her",
-  code: ["JavaScript", "Python", "Java", "C", "HTML", "CSS","Java],
-  frontend: ["React.js", "Next.js", "Bootstrap", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js", "Flask"],
-  database: ["MongoDB", "MySQL"],
-  tools: ["Postman", "GitHub", "Git", "VS Code"],
-};
-
-📊 GitHub Stats & Activities
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi-2694&show_icons=true&theme=radical&count_private=true&hide_border=false" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaishnavi-2694&layout=compact&theme=radical&hide_border=false" height="160" /> <img src="https://streak-stats.demolab.com?user=vaishnavi-2694&theme=radical&hide_border=false&border_radius=5" height="160" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-2694&radius=16&theme=react-dark&area=true" height="300" /> </div>
-🎯 Hobbies & Interests
-💻 Coding & Problem Solving
-🏆 Hackathon Enthusiast
-🚀 Exploring New Tech Stacks
-🌍 Open Source Contributions
-🚀 Fun Fact About Me
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="50"> 💡 I believe in **"Learning by Doing!"** I love solving real-world problems using technology and building cool projects!
-🤝 Let's Connect & Build Together!
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Love networking and open to collaborations! Feel free to reach out! 😊</b></em> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100" width="100%"/> </p> ```
